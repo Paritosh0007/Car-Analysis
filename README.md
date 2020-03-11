@@ -23,5 +23,8 @@ kilometer: How many kilometers the car has driven.
 * notRepairedDamage: If the car has a damage which is not yet repaired.
 * dateCreated: The date on which the eBay listing was created.
 * nrOfPictures: The number of pictures in the ad.
+* postalCode: The postal code for the location of the vehicle.
+* lastSeenOnline: When the crawler saw this ad last online.
+## Tools Used:-
 
 
