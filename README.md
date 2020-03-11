@@ -16,5 +16,12 @@ abtest: Whether the listing is included in an A/B test.
 * gearbox: The transmission type.
 * powerPS: The power of the car in PS.
 * model: The car model name.
+kilometer: How many kilometers the car has driven.
+* monthOfRegistration: The month in which which year the car was first registered.
+* fuelType: What type of fuel the car uses. 
+* brand: The brand of the car.
+* notRepairedDamage: If the car has a damage which is not yet repaired.
+* dateCreated: The date on which the eBay listing was created.
+* nrOfPictures: The number of pictures in the ad.
 
 
