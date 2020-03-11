@@ -26,5 +26,8 @@ kilometer: How many kilometers the car has driven.
 * postalCode: The postal code for the location of the vehicle.
 * lastSeenOnline: When the crawler saw this ad last online.
 ## Tools Used:-
+* Concepts used in the project: pandas and numpy modules in Python.
+* Programming Language: Python.
+* Environment: Google Collab.
 
 
